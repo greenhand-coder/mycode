@@ -1,2 +1,1 @@
-# mycode
-my note for web
+百度前端学习笔记
