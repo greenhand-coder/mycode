@@ -1,7 +1,0 @@
-<!DOCTYPE HTML>
-<html> 与 </html> 之间的文本描述网页
-<body> 与 </body> 之间的文本是可见的页面内容
-<h1> 与 </h1> 之间的文本被显示为标题
-<p> 与 </p> 之间的文本被显示为段落
-<a>与</a>间是链接             eg:   <a href="http://www.w3school.com.cn">This is a link</a>
-图片用单<img>           eg:<img src="/i/eg_w3school.gif" width="300" height="120" />
